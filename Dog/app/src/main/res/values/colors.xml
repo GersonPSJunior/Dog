@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c61212</color>
+    <color name="colorPrimaryDark">#b10113</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRedLight">#ffffff</color>
+    <color name="corDoGerson">#c61212</color>
+    <color name="colorSpinner">#cb6e6b6b</color>
+</resources>
